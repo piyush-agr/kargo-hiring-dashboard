@@ -1,0 +1,13 @@
+*{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,sans-serif;color:#1a2233;background:#f5f6f8}
+nav{display:flex;gap:20px;align-items:center;padding:12px 24px;background:#12263f;color:#fff}nav a{color:#bcd;text-decoration:none}nav a:hover{color:#fff}
+main{max-width:980px;margin:24px auto;padding:0 16px}
+.card{background:#fff;border:1px solid #dde1e8;border-radius:8px;padding:16px;margin-bottom:12px}
+button{background:#12263f;color:#fff;border:0;border-radius:6px;padding:8px 14px;font-size:14px;cursor:pointer}button:disabled{opacity:.45;cursor:default}
+button.green{background:#13795b}button.ghost{background:#e8ebf0;color:#12263f}
+select,input[type=file]{padding:6px;font-size:14px}
+.row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.sp{justify-content:space-between}
+.score{font-size:26px;font-weight:700}.pill{font-size:12px;padding:2px 8px;border-radius:99px;background:#e8ebf0}
+.invite{background:#d8f3e8;color:#0b5d44}.rejection{background:#fde6e6;color:#8a2a2a}.sent{background:#12263f;color:#fff}
+table{border-collapse:collapse;width:100%;font-size:13px}td,th{padding:4px 8px;border-bottom:1px solid #eee;text-align:left;vertical-align:top}
+pre{white-space:pre-wrap;font:inherit;background:#f5f6f8;padding:10px;border-radius:6px;margin:6px 0}
+.muted{color:#667}.err{color:#b00020}.tabs button{margin-right:6px}.line{border-top:3px dashed #13795b;margin:16px 0;text-align:center;color:#13795b;font-size:12px}
