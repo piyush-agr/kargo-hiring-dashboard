@@ -7,3 +7,4 @@ Upload CV -> split personal details (code, never sent to AI) -> score vs PM + SP
 3. `npm install && npm run dev`  (or deploy to Vercel).
 
 Stack: Next.js, Supabase, Gemini Flash(-Lite), Resend, Vercel.
+done.
